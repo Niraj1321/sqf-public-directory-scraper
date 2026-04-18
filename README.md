@@ -44,7 +44,7 @@ https://sqfi.compliancemetrix.com/rql/g/Public_Directory
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/sqf-scraper.git
+git clone https://github.com/Niraj1321/sqf-public-directory-scraper.git
 cd sqf-scraper
 ```
 
