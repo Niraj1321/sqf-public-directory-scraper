@@ -9,7 +9,7 @@ current_date=datetime.date.today().strftime("%d%m%Y")
 conn = pymysql.connect(
     host="localhost",
     user="root",
-    password="aman@123",
+    password="update_your_mysql_password",
     database="sqf_data"
 )
 cursor = conn.cursor()
